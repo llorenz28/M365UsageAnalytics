@@ -47,6 +47,14 @@
 
 ---
 
+## 🧪 Try the synthetic demo first
+
+Open [M365 Dashboard - DEMO PBIX.pbix](M365%20Dashboard%20-%20DEMO%20PBIX.pbix) to explore the report immediately with cached synthetic `@example.com` users. This PBIX is for preview and testing only; it is not the tenant-data template.
+
+For your own Purview and Entra data, use [M365 Usage Dashboard - June 2 2026.pbit](M365%20Usage%20Dashboard%20-%20June%202%202026.pbit) and follow the [Quick Start](#quick-start). The PBIT remains the primary template and is not replaced or removed. See the updated [Interpretation Guide](M365%20Usage%20Dashboard%20-%20Interpretation%20Guide.pdf) and [animated report preview](images/report-pages-carousel.gif).
+
+---
+
 ## 🚀 Quick Start
 
 This section walks you through getting the dashboard running. There are **4 steps**, but the recommended path (PAX script) collapses them into **one command + opening Power BI**.
